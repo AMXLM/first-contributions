@@ -3057,6 +3057,7 @@ Akash Abraham
 -[Lang F](https://github.com/A-Nobel)
 -[Kelsey Hughes](https://github.com/kelbri10)
 -[techofirst]
+- [Adrian Munoz](https://github.com/AMXLM)
 -[Anuraj Shukla](https://github.com/anurajshukla)
 -[Iliyas Khan](https://github.com/khaniliyas)
 -[Aditya Gopal Krishnaut](https://github.com/AKrisadi)
